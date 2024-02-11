@@ -1,10 +1,10 @@
 {
-    "version": "1.12.2.4211",
+    "version": "1.13.3.4273",
     "description": "Prowlarr. The Ultimate Index Manager",
     "homepage": "https://github.com/Prowlarr/Prowlarr",
     "license": "GPL-3",
-    "url": "https://github.com/Prowlarr/Prowlarr/releases/download/v1.12.2.4211/Prowlarr.master.1.12.2.4211.windows-core-x64.zip",
-    "hash": "fa7aa0ffeeee35c7a24de1d42868ce5381d26f660e9d5e36da5694f74debba9e",
+    "url": "https://github.com/Prowlarr/Prowlarr/releases/download/v1.13.3.4273/Prowlarr.master.1.13.3.4273.windows-core-x64.zip",
+    "hash": "dd82bcc11d48ef102a06e2df44585e448618d4fcd6f630775ba07e0fb01e6e44",
     "extract_dir": "Prowlarr",
     "shortcuts": [
         [
