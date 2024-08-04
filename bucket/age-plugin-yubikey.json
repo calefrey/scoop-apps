@@ -1,13 +1,11 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "description": " YubiKey plugin for age",
     "homepage": "https://github.com/str4d/age-plugin-yubikey",
     "license": "MIT",
-    "url": "https://github.com/str4d/age-plugin-yubikey/releases/download/v0.4.0/age-plugin-yubikey-v0.4.0-x86_64-windows.zip",
+    "url": "https://github.com/str4d/age-plugin-yubikey/releases/download/v0.5.0/age-plugin-yubikey-v0.5.0-x86_64-windows.zip",
     "extract_dir": "age-plugin-yubikey",
-    "bin":[
-        "age-plugin-yubikey.exe"
-    ],
+    "bin": "age-plugin-yubikey.exe",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/str4d/age-plugin-yubikey/releases/download/v$version/age-plugin-yubikey-v$version-x86_64-windows.zip"
